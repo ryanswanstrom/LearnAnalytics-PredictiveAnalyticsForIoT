@@ -22,19 +22,19 @@ On the left panel Datasets section in My Workspace, you should be able to see a 
 
 Create the "Demand by Timestamp" tile:
 
-1.  Click dataset **`EnergyStreamData`** on the left panel Datasets section.
+1.  Click dataset **`EnergyStreamData`** on the left panel Datasets section.<br>
 ![pbi datasets](../imgs/pbi_check_dataset_warrow.PNG)
-*  Click "Line Chart" icon
+*  Click "Line Chart" icon<br>
 ![pbi linechart](../imgs/pbi_pick_linechart.PNG)
 *  Click **`EnergyStreamData`** in Fields panel.
 *  Click “time” and make sure it shows under "Axis". Click “demand” and make sure it shows under "Values".  Otherwise, drag and drop these fields into the apprpriate locations in the Visualizations panel.
 *  Click **Save** on the top-right and name the report as **`EnergyStreamDataReport`**. The report named **`EnergyStreamDataReport`** will be shown in Reports section in the Navigator pane on left.
-*  Click “Pin Visual” icon on top right corner of this line chart, a "Pin to Dashboard" window may show up for you to choose a dashboard. Please select or fill in with **`EnergyStreamDataReport`** (note, I use the same name as report, but you can choose any name), then click "Pin".
+*  Click “Pin Visual” icon on top right corner of this line chart, a "Pin to Dashboard" window may show up for you to choose a dashboard. Please select or fill in with **`EnergyStreamDataReport`** (note, I use the same name as report, but you can choose any name), then click "Pin".<br>
 ![pbi pin visual from report](../imgs/pbi_pin_linechart.PNG)
 *  Hover the mouse over this tile on the dashboard, click "edit" icon on top right corner to change its title as "Demand by Timestamp" with no subtitle or something descriptive.
 *  Create other dashboard tiles:
-  - A Map
-  - A single card with just the energy demand
+  - A Map - just try selecting `region` from the Fields pane and see what default graph pops up
+  - A single card with just the energy demand - try just clicking on the `demand` field in Fields
   - A bar chart
   - others that you wish to try
   ...Then pin some or all to your dashboard
