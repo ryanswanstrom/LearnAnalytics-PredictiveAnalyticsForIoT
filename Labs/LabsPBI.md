@@ -67,4 +67,4 @@ Create the "Demand by Timestamp" tile:
 
 ```
 
-`outputpbi` -> `PBIoutput` like [this](/Code/ASA_query.sql)
+`outputpbi` -> `PBIoutput` like [this](/Code/ASA_query.sql) in https://manage.windowsazure.com ("classic" portal)
