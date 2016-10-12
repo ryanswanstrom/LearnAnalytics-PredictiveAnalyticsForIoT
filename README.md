@@ -1,6 +1,6 @@
 # *Predictive Analytics for IoT* Training Course Materials
 
-[![Join the chat at https://gitter.im/analytics-at-ms/iotedu-hyderabad](https://badges.gitter.im/analytics-at-ms/Lobby.svg)](https://gitter.im/analytics-at-ms/iotedu-hyderabad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here, we provide training materials for a course covering an example solution of IoT on Azure, Microsoft's cloud and cloud offerings.
 
 ## How to Use this Site
@@ -40,3 +40,6 @@ Here, we provide training materials for a course covering an example solution of
 *  Labs
 *  Decks
 *  [Wiki](https://github.com/michhar/data-pipeline-education/wiki)
+
+## For Instructor Led Training join a class chat at:
+[![Join the chat at https://gitter.im/analytics-at-ms/iotedu-hyderabad](https://badges.gitter.im/analytics-at-ms/Lobby.svg)](https://gitter.im/analytics-at-ms/iotedu-hyderabad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
