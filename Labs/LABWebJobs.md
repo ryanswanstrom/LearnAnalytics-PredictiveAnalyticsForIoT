@@ -4,7 +4,7 @@
 
 ## Monitor Web Job
 
-1.  Go to https://<name of App Service>.scm.azurewebsites.net/azurejobs/#/jobs to see a listing of your jobs. (you may have to wait a few seconds for the site to populate or refresh the page if none appear after a few seconds).
+1.  Go to https://\<name of your App Service\>.scm.azurewebsites.net/azurejobs/#/jobs to see a listing of your jobs. (you may have to wait a few seconds for the site to populate or refresh the page if none appear after a few seconds).
 
 ![Web Job List](../imgs/webjob_list.png)
 
