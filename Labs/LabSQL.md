@@ -18,3 +18,13 @@ Also, try listing the tables you now have.  We will not use this database for an
 ### Reference Data Integration
 
 Read through this article: https://msdn.microsoft.com/en-us/library/dn266029(v=vs.103).aspx on Synchonizing your SQL database with a reference database.  Just reading through this article will be sufficient for this hands-on-lab.
+
+### Troubleshooting the Database Connection Process
+
+* Make sure you use server name w/o “,1433” as in the diagram/screenshot above.
+* In portal make sure you:
+  - Turn on Firewall (Under Server)
+  - Transparent data encryption (under Database, not Server)
+* In classic portal “Configure” under SQL Database -> Servers (pick your server) and Allow Client ip
+* If you need to reset password use classic portal as described here: http://stackoverflow.com/questions/13790752/password-reset-for-azure-database
+
