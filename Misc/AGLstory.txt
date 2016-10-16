@@ -1,0 +1,48 @@
+An Energy Company Powers Innovation with Azure
+
+Innovation Spotlight: AGL puts energy into action with the Cloud
+
+Discover the difference the cloud is making to leading energy provider AGL Energy Limited (AGL) and some of the leading edge activities it’s doing to drive innovation.
+
+AGL puts energy into action with the Cloud
+
+Q:    Going back to the deregulation of the energy sector in 2001, what impact did this have on your business and how does it still influence you today?
+A:    Deregulation of the energy sector in 2001 signaled a huge shift for us at AGL. With a greater choice of providers and cost-saving options available to energy consumers, we had to find ways to differentiate our offerings in a more dynamic and competitive environment.
+
+While this new environment initially meant customer-churn was at an all-time high, we recognised that it presented opportunities unprecedented in the industry. Yes, the industry was more competitive than ever before but, to retain our place as the leading energy retailer, we had to find a way to differentiate ourselves beyond pricing by enhancing the value we deliver. For us – and our customers – this continues to be a rewarding and exciting journey, and one that has been enhanced with the rollout of smart meters.
+
+Empowering consumers to better understand their energy consumption, and subsequently lower costs and increase energy efficiency, smart meters are changing our industry, and allowing us to deliver data-rich and consider personalised experiences.
+
+Q:    With the utilities sector becoming data driven, can you tell me about the customer service solution implemented at AGL, and how you are taking advantage of the cloud?
+
+A:    What we needed was a common platform that met both internal and customer-facing needs. The first step in this journey was to consolidate our 50 independently-managed business websites into one consolidated platform, which we achieved with Microsoft Azure.
+
+Working with Avanade and Accenture, we then implemented a customer experience solution from Sitecore running on the platform. This enabled us to take advantage of its rich and scalable features, while leveraging our existing investments in Microsoft technology, such as Office 365.
+
+Running our customer service solution in the cloud is a crucial element of the experience we aim to deliver at AGL. First and foremost, it means we can rapidly scale our solution to address demand and maintain a seamless customer experience regardless of the pressure being placed on the system. For instance, there are particular times during the month – such as after pay days – where we know customers will go online to pay their bills. We can plan for this spike in activity and, with cloud, can scale up services to ensure there is no downtime impacting the customer.
+
+Furthermore, migrating our existing self-service technology solution to the cloud means that customers can easily pay their bills, view account activity, and update their details – which is a huge benefit for those moving house. This experience has been enhanced further through the identity services delivered through Microsoft Azure, with our customers able to log into their account with using their social media credentials, and the site’s responsive web design that can be accessed from anywhere and any device.
+
+Q:    What business results have you seen since moving to cloud?
+
+A:    The ability at which we’re now able to go-to-market with new customer offerings and update existing systems has been a huge success of the project. One feature we’ve launched offers customers personalised usage reports and 24-month energy management plans enabling them to choose how to manage their energy consumption. As a result of this, home page visitors are 47 percent more likely to go directly to AGL’s energy plans to consider us as their energy provider.
+
+Similarly, now that our website is optimised for mobile, we’ve seen a 29 percent increase in mobile conversions with an increase in mobile visitors overall.  With more customers wanting to pay their bills online, we introduced a “Pay Your Bill” quick link, which is now the second most popular page on the site. The customer service site also loads significantly quicker and offers a much smoother experience.
+
+Ultimately, running our customer experience solution in the cloud has made it much easier for customers to do business with us, and we’re looking forward to adding new features to the site when the local Australian Azure Geo officially comes online.
+
+Q:    Talking of the new Microsoft Azure Geo in Australia, you were one of the Private Preview customers. How have you been taking advantage of the platform so far?
+
+A:    As a Private Preview customer for Australia, we’ve been working to develop our next generation Digital Platform, which is being hosted in the new Microsoft Azure Geo in Australia. As consumers, we interact with our providers through a number of channels – online, mobile apps, direct contact, and through third-party developers. As such, we’ve been working on a Web API designed to support a variety of communication channels, and we hope that by unifying them at the back-end we’ll drive the customer experience even more. For example, if we know the majority of our customers are interacting with us via a third-party application, we can look to develop a strategic partnership with that organisation and develop new offerings.
+
+We’ve also moved our SAP platform, which manages digital meter data, and our test environments to Microsoft Azure. This has resulted in a significant improvement in self-service and speed of deployment of existing arrangements. Similarly, as consumers increasingly embrace digital meters gathering increasing data volumes, we can effectively scale the platform to manage the demand being placed on it. We anticipate that from migrating this part of our workload to Microsoft Azure’s Australian offerings we’ll realise over 60 percent in annual hosting cost savings.
+
+As digital meters become a common fixture in homes across the country, we’ve also used the Private Preview stage to establish an entirely new metering business in the cloud. We’re hoping to deliver this later next year, which is only made possible due to how quickly we can launch new services in Microsoft Azure.
+
+Q:    How else are you planning to use cloud moving forward?
+
+A:    AGL has adopted a “cloud first policy” for all new services, and Microsoft Azure is our preferred platform. Not only does cloud enable us to rapidly launch services, it delivers a seamless customer experience making us easy to interact with. This is key for us, and as consumers continue to embrace connected devices we need to be ready to deliver upon their expectations. We’ll also continue to invest in cloud from a Digital perspective, providing support for native mobile applications and adopting Service Bus Notification Hubs for cross-platform device notifications.
+
+Disaster recovery is another area we’re investigating, and is somewhere we see significant cost savings. It means that our staff can work and access the information they need in case of emergency, and regardless of device and location, ensuring our services are always readily available.
+
+Lastly, we’re in the final stages of a decision regarding an internal switch from VMWare to Hyper-V. This is being driven by cost-savings and the ease at which we can move workload between on-premise and cloud.
