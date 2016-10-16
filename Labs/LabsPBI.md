@@ -7,7 +7,7 @@
 
 ## Setup Hot Path Dashboard
 
-The following steps will guide you how to visualize real time data output from Stream Analytics jobs that were generated at the time of solution deployment. A Power BI online account is required to perform the following steps. If you don't have an account, you can create one.
+The following steps will guide you how to visualize real time data output from Stream Analytics jobs that were generated at the time of solution deployment. A Power BI online account is required to perform the following steps. If you don't have an account, you can create one as in step No. 1 [here](../PREREQUISITES.md).
 
 ### Add Power BI output in Azure Stream Analytics (ASA).
 
