@@ -4,11 +4,19 @@
 
 ## Monitor Web Job
 
-1.  Go to https://\<name of your App Service\>.scm.azurewebsites.net/azurejobs/#/jobs to see a listing of your jobs. (you may have to wait a few seconds for the site to populate or refresh the page if none appear after a few seconds).
-
-![Web Job List](../imgs/webjob_list.png)
-
-2.  Which is slow-moving data or data-at-rest and which is fast-moving data?
+1.  Go to https://\<name of your App Service\>.scm.azurewebsites.net/ to see an UI for interacting with your web jobs. <br>
+![Web Jobs landing site](../imgs/webjob_azuresite.png)
+2.  Select the Web Jobs dashboard under "Tools"<br>
+![Select web jobs dashboard](../imgs/webjob_select_dashboard.PNG)<br>
+3.  You will see a list similar to this:<br>
+![Web Job List](../imgs/webjob_list.png)<br>
+**QUESTION:**  Which is slow-moving data or data-at-rest and which is fast-moving data?  Which ones are triggered and which are continuous web jobs?<br>
+4.  Now let's drill into the Debug Console (red arrow in first screenshot) to find the web job code base.  Go to "Debug Console" and "CMD", then drill down as in the following screenshot (see red arrow):<br>
+![Command example web job](../imgs/webjob_cmd_example.PNG)<br>
+**QUESTION:**  For triggered jobs what do you think a CRON expression means and does?<br>
+NOTE on GitHub:  Often, the `wwwroot` folder is copied up to a GitHub repository for version control and public access for sharing.<br>
+5.  The Web Jobs are also accessible in the Azure portal.  Go to the App Service resource, then under Settings select WebJobs.  This will give you a view of the running jobs or if they are stopped you may refresh here.<br>
+![Web jobs in Azure portal](../imgs/webjob_list_portal.png)
 
 ```
 Answers below.
@@ -46,3 +54,7 @@ Answers below.
 * FiveMinsDataToEH: Simulates energy consumption data and sends it to Event Hub every 5 minutes.
 * FiveMinsDataToSQL: Simulates energy consumption data and sends it to Azure SQL every 5 minutes.
 * WeatherHourlyDataToSQL: Simulates weather data and sends it to Azure SQL every hour.
+
+They are all triggered Web Jobs.
+
+2.  For example, this CRON expression "0 */5 * * * *" means, run every 5 minutes.  This is in the file settings.job alongside the script.  Web Jobs can be created from the Azure portal itself.
