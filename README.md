@@ -7,14 +7,18 @@ Here, we provide training materials for a course covering an example solution of
 
 *This site is intended to be the main resource to an instructor-led course, but anyone is welcome to learn here.  The intent is to make this site self-guided and it is getting there.*
 
+> We recommend cloning this repository onto your local computer with a git-based program (like GitHub desktop for Windows) or you may download the site contents as a zip file by going to "Clone or Download" at the upper right of this repository.
+
 **For Instructor-Led:**
+* We recommend dowloading the site contents or cloning it if you can do so to your local computer.
 * Complete the [setup instructions](/PREREQUISITES.md)
 * Follow along with the classroom instructions and training sessions.
 * When there is a lab indicated, you may find the lab instructions in the Labs (COMING SOON) folder.
 
 
 **For Self-Study:**
-* Go to Decks (COMING SOON) folder and follow along with the slides.
+* We recommend dowloading the site contents or cloning it if you can do so to your local computer.
+* Go to Decks folder and follow along with the slides.
 * When there is a lab indicated, you may find the lab instructions in the Labs (COMING SOON) folder.
 
 ## Microsoft's Cortana Intelligence Suite Components Covered
@@ -37,9 +41,11 @@ Here, we provide training materials for a course covering an example solution of
 7.  *Power BI* - dashboarding service containing aggregations provided by Azure Stream Analytics (data in motion) and Azure Machine Learning service results stored in Azure SQL Database (data at rest)
 
 ## Structure of this Repository Site
-*  Labs
-*  Decks
-*  [Wiki](https://github.com/michhar/data-pipeline-education/wiki)
+*  Labs - hands-on exercises
+*  Decks - classroom slides
+*  Code - scripts
+*  [Wiki](https://github.com/michhar/data-pipeline-education/wiki) - peruse and/or contribute
 
-## For Instructor Led Training join a class chat at:
+## For Instructor Led Training join a class chat at (need a GitHub account for this, but that's easy to get)
+
 [![Join the chat at https://gitter.im/analytics-at-ms/iotedu-hyderabad](https://badges.gitter.im/analytics-at-ms/Lobby.svg)](https://gitter.im/analytics-at-ms/iotedu-hyderabad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
