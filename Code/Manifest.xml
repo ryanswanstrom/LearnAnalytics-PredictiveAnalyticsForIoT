@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Category>DesignPattern</Category>
+  <Title>HDInsight Cluster</Title>
+  <Owner displayname="Darwin Schweitzer" email="darsch@microsoft.com" />
+  <PublishedOn>10/18/2016</PublishedOn>
+  <ImageUrl>{PatternAssetBaseUrl}/HDInsightLogo.png</ImageUrl>
+  <Description>Provision a HDInsight Cluster</Description>
+  <Summary src="hdiSummary.md" format="markdown" />
+  <EstimatedTime>25 Minutes</EstimatedTime>
+  <Ingredients>
+    <Ingredient>HDInsight</Ingredient>
+    <Ingredient>StorageAccount</Ingredient>
+  </Ingredients>
+  <ProvisioningSteps>
+    <ArmDeployment source="hdiArmTemplate.json" />
+    <Manual title="Done">
+      <Instructions src="hdiInstructions.md" format="markdown" />
+    </Manual>
+  </ProvisioningSteps>
+</Template>

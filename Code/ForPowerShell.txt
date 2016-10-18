@@ -1,0 +1,8 @@
+1) Login PS C:\Users\user> Login-AzureRmAccount
+2) Get Subscriptions PS C:\Users\user> Get-AzureRmSubscription
+3) Select Default Subscription
+PS C:\Users\user> Get-AzureRmSubscription –SubscriptionName “My Development” | Select-AzureRmSubscription
+4) Create a Resource Group in a Location
+PS C:\Users\user> New-AzureRmResourceGroup -Name hdi1018 -Location "West US"
+5) Create an HDInsight Cluster with ARM
+PS C:\Users\user> New-AzureRmResourceGroupDeployment -ResourceGroupName hdi1018 -TemplateFile C:\Users\darsch\Desktop\ForMichhar\Code\hdiArmTemplate.json -clusterType hadoop -clusterWorkerNodeCount 2 -clusterLoginUserName user123 -clusterLoginPassword MyP@ssw0d -sshUserName user123 -sshPassword MyP@ssw0rd
