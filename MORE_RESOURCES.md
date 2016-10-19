@@ -16,3 +16,7 @@
 
 * [Team Data Science Process](https://azure.microsoft.com/en-us/documentation/articles/data-science-process-overview/) - provides a systematic approach to building intelligent applications that enables teams of data scientists to collaborate effectively over the full lifecycle of activities needed to turn these applications into products
 * [Walk-Throughs in the context of the Team Data Science Process](https://azure.microsoft.com/en-us/documentation/articles/data-science-process-walkthroughs/)
+
+## Getting Started with R and Microsoft R Server
+
+https://msdn.microsoft.com/en-us/microsoft-r/microsoft-r-getting-started
