@@ -1,6 +1,19 @@
 ##  Welcome to the Buildathon
 
-Your challenge is to modify and tinker with an existing solution template of interest from the ones recommended below,  We encourage you to focus on the Azure Machine Learning and Stream Analytics aspects or Azure Data Factory given expertise.  Please, in your buildathon projects pick from one below and keep your scope simple at first, then build to more complex.  Some of these suggestions have a Microsoft R Server version as well.
+We will:
+1. **Choose teams based on diverse backgrounds.**  We encourage you to ask about roles and try to pair up with internal and external people for more diverse backgrounds and insights.  Try to imagine your day to day job and advertise what you know and wish to do better.  We can help with this process by aiding in role based or expertise based group pairings.
+
+2.  **Choose a project with a practical application for a simple scenario or dataset based or starting from the recommendations below.**  Keep it as simple as you can at first.  Choose each component to modify based on the expertise in the group/team.  If it is custom, just start with a "hot path" or "cold path."
+
+3.  **Present this idea and general architecture to the room in under 1 minute** - this is meant to help direction and should be fun.  And example diagram from Predictive Maintenance detail site link is this [one](https://caqsres.blob.core.windows.net/predictivemaintenance/PredictiveMaintenanceDiagram.JPG).  Do not feel stressed if it's still a work in progress.  This is not supposed to be perfect, but try to have at least a general idea of your modifications to a template based on your scenario or existing scenario.
+
+4.  **Now work as a team to decide who will work on what pieces or pair up to do so** and begin to tinker with these pieces according to the design.  It's ok to break anything at first.
+
+
+
+Your challenge is to modify and tinker with an existing solution template of interest from the ones recommended below.
+
+We encourage you to focus on the such as if you are a Data Scientist, focus on Azure Machine Learning or a web programmer focus on Web Jobs and Stream Analytics or if you are very familiar with BI, create some great dashboards.  Focus on what you know and what you can do well.  Please, in your buildathon projects pick from one below and keep your scope simple at first, then build to more complex.  Some of these suggestions have a Microsoft R Server version as well.
 
 __Your verticals to choose from:__
 
