@@ -50,3 +50,15 @@ __Your verticals to choose from:__
   *  **Vehicle telemetry analytics** on Cortana Intelligence Quick Starts.  Read more and deploy at:  https://start.cortanaintelligence.com/Legacy/#gallery/vehicletelemetry)
   *  **IT Anomaly Insights** on Cortana Intelligence Quick Starts.  Read more and deploy at:  https://start.cortanaintelligence.com/Legacy/#gallery/anomalydetectionpcs
   
+
+
+## Useful Docs
+
+Modifying the remaining useful life (Predictive Maintenance) experiment - https://github.com/Azure/azure-iot-predictive-maintenance/blob/master/Docs/tutorial-rul.md
+
+Deep dive into the Vehicle Telemetry solution with **data generator** visual studio code - https://github.com/Azure/azure-content/blob/master/articles/machine-learning/cortana-analytics-playbook-vehicle-telemetry-deep-dive.md
+
+Create a .NET Web Job - https://azure.microsoft.com/en-in/documentation/articles/websites-dotnet-webjobs-sdk-get-started/
+
+Run background tasks with Web Jobs - https://azure.microsoft.com/en-us/documentation/articles/web-sites-create-web-jobs/
+Deploy web jobs in Visual Studio - https://azure.microsoft.com/en-us/documentation/articles/websites-dotnet-deploy-webjobs/
