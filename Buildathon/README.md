@@ -6,6 +6,19 @@ We will:
 
 1. **Choose teams based on diverse backgrounds.**  We encourage you to ask about roles and try to pair up with internal and external people for more diverse backgrounds and insights.  Try to imagine your day to day job and advertise what you know and wish to do better.  We can help with this process by aiding in role based or expertise based group pairings.
 
+### Roles
+
+Choose one that fits you most closely:
+* Data Engineer - e.g. dev, evangelist, ETL
+* Advanced Analytics - e.g. data scientist, iot, evangelist
+* Data Analyst/Business Analyst - e.g. BI analyst
+* Architect/PM/Solution Architects
+
+Write:
+1. Company
+2. Name
+3. Roles - a primary and secondary
+
 2.  **Choose a project with a practical application for a simple scenario or dataset based or starting from the recommendations below.**  Keep it as simple as you can at first.  Choose each component to modify based on the expertise in the group/team.  If it is custom, just start with a "hot path" or "cold path."
 
 3.  **Present this idea and general architecture to the room in under 1 minute** - this is meant to help direction and should be fun.  And example diagram from Predictive Maintenance detail site link is this [one](https://caqsres.blob.core.windows.net/predictivemaintenance/PredictiveMaintenanceDiagram.JPG).  Do not feel stressed if it's still a work in progress.  This is not supposed to be perfect, but try to have at least a general idea of your modifications to a template based on your scenario or existing scenario.
