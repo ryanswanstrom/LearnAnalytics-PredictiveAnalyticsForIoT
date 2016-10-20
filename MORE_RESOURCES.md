@@ -32,8 +32,12 @@ Video Guide to Azure ML and real example on titanic dataset (survival):  https:/
 
 * End-to-end walk-through for Data Science with SQL Server R Server (MRS that ships inside SQL Server 2016 by default) tutorial:  https://msdn.microsoft.com/en-us/library/mt612857.aspx 
 
+* Webinar Videos MRS:
+  - Feb 2016 Webinar on addressing scalability issues with MRS (great intro):  https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Using-Microsoft-R-Server-to-Address-Scalability-Issues-in-R
+  - Oct 2016 Webinar on Data Mining with MRS: https://channel9.msdn.com/Series/Microsoft-R-Server-Series/Data-Mining-with-Microsoft-R-Server-Webinar
+
 ## Scenarios
 
 For Predictive Maintenance
 
-![Pred main scenarios](..\imgs\predictive_maintenance_scenarios.PNG)
+![Pred main scenarios](imgs\predictive_maintenance_scenarios.PNG)
