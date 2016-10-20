@@ -40,4 +40,4 @@ Video Guide to Azure ML and real example on titanic dataset (survival):  https:/
 
 For Predictive Maintenance
 
-![Pred main scenarios](imgs\predictive_maintenance_scenarios.PNG)
+![Pred main scenarios](imgs/predictive_maintenance_scenarios.PNG)
