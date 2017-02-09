@@ -49,3 +49,27 @@ Here, we provide training materials for a course covering an example solution of
 ## For Instructor Led Training join a class chat at (need a GitHub account for this, but that's easy to get)
 
 [![Join the chat at https://gitter.im/analytics-at-ms/iotedu-hyderabad](https://badges.gitter.im/analytics-at-ms/Lobby.svg)](https://gitter.im/analytics-at-ms/iotedu-hyderabad?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## Contributing
+
+All code is licensed under the MIT license and we triage actively on GitHub. We enthusiastically welcome contributions and feedback. You can clone the repo and start contributing now. 
+
+## Releases
+
+Please check the [releases](https://github.com/michhar/data-pipeline-education/releases) for updates.
+
+## Acknowledgements
+
+The CIQS team for the publishing of the Energy Demand Forecasting Quick Start solution.
+
+## License
+
+Copyright (c) Microsoft Corp.  All rights reserved. Licensed under the MIT License;
+
+See license at [this](https://github.com/michhar/data-pipeline-education/blob/master/LICENSE.md) link.
+
+## Microsoft Open Source Code of Conduct
+
+We Value and Adhere to the Microsoft Open Source Code of Conduct.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
