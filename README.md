@@ -1,6 +1,5 @@
 # *Predictive Analytics for IoT* Training Course Materials
 
-
 Here, we provide training materials for a course covering an example solution of IoT on Azure, Microsoft's cloud and cloud offerings.
 
 ## How to Use this Site
