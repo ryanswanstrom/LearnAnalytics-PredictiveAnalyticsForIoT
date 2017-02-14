@@ -11,5 +11,3 @@
 4.  GitHub Desktop (optional, but recommended) - can download [here](https://desktop.github.com/)
 
 4.  Check Azure credits by visiting the account page at https://account.windowsazure.com/Subscriptions and click on the subscription to check the credit status.
-
-5.  You will need to be *"whitelisted"* for the Cortana Intelligence Quick Starts site if taking this course in the instructor-led format.  Please send the Work or School Account that you used for the Azure Pass from above to your registration contact for approval.
