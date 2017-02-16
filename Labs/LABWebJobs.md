@@ -1,6 +1,6 @@
 ## Lab on Web Jobs - Monitor Data In Motion and at Rest
 
-* Make sure all pre-requisites from [here](../SETUP.md) are done.
+
 
 ## Monitor Web Job
 
@@ -14,7 +14,7 @@
 ![Command example web job](../imgs/webjob_cmd_example.PNG)<br>
 **QUESTION:**  For triggered jobs what do you think a CRON expression means and does?<br>
 NOTE on GitHub:  Often, the `wwwroot` folder is copied up to a GitHub repository for version control and public access for sharing.<br>
-5.  Take a look at the pythom script and the `settings.job` files of the FiveMinsDataToEH job by clicking the pencil or edit button.  You can also download these from here in the console.  What do you think this job is doing and how often?
+5.  Take a look at the python script and the `settings.job` files of the FiveMinsDataToEH job by clicking the pencil or edit button.  You can also download these from here in the console.  What do you think this job is doing and how often?
 5.  The Web Jobs are also accessible in the Azure portal.  Go to the App Service resource, then under Settings select WebJobs.  This will give you a view of the running jobs or if they are stopped you may refresh here.  You may also add new jobs in the Azure portal and on this page.<br>
 ![Web jobs in Azure portal](../imgs/webjob_list_portal.png)
 
