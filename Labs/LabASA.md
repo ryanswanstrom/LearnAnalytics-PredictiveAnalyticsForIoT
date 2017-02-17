@@ -1,4 +1,5 @@
 Instructions:
+
 1.  Log in to the Azure Portal
 2.  Find Your resource group for the Solution
 3.  Locate the Streaming Analytics Job '<name>saJob'
