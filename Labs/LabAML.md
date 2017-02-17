@@ -8,5 +8,6 @@
 
 ```R
 # New graph showing energy demand as a function of hour of day shown by day of week: (this is a comment)
+library(ggplot2)
 ggplot(data.new, aes(x = as.factor(hourofday), y = Demand, color = as.factor(dayofweek))) + geom_line()
 ```
