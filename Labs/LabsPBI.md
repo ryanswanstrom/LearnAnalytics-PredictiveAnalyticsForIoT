@@ -1,9 +1,4 @@
-## ASA PBI setup
-* ASA job:  `<YourSolutionName>sajob`
-* output alias:  `PBIoutput`
-* dataset name:  `EnergyDemandData`
-* PBI report name:  `EnergyStreamDataReport` (also use for dashboard name)
-* make sure Web jobs are running and inputblob has a path pattern specified (in classic portal)
+
 
 ## Setup Hot Path Dashboard
 
@@ -11,10 +6,11 @@ The following steps will guide you how to visualize real time data output from S
 
 ### Add Power BI output in Azure Stream Analytics (ASA).
 
+Can be skipped if you have already completed LabASA.
 You will need to follow the instructions in Azure Stream Analytics & Power BI: A real-time analytics dashboard for real-time visibility of streaming data to set up the output of your Azure Stream Analytics job as your Power BI dashboard.
 
 1.  Locate the stream analytics job in your Azure management portal. The name of the job should be: **`<YourSolutionName>sajob`** (e.g. `mhenergysajob`)
-2.  Add a PowerBI output for the ASA job. Set the Output Alias as **`PBIoutput`**. Set your Dataset Name and Table Name as **`EnergyStreamData`**. Once you have added the output, click **Start** at the bottom of the page to start the Stream Analytics job. You should get a confirmation message.
+2.  Add a PowerBI output for the ASA job. Set the Output Alias as **`outputPBI`**. Set your Dataset Name and Table Name as **`EnergyStreamData`**. Once you have added the output, click **Start** at the bottom of the page to start the Stream Analytics job. You should get a confirmation message.
 
 ### Create a dashboard in Power BI online:
 
@@ -22,8 +18,10 @@ On the left panel Datasets section in My Workspace, you should be able to see a 
 
 Create the "Demand by Timestamp" tile:
 
-1.  Click dataset **`EnergyStreamData`** on the left panel Datasets section.<br>
+1.  Double Click **Streaming Datasets** on the bottom left.<br/>
 ![pbi datasets](../imgs/pbi_check_dataset_warrow.PNG)
+2. Locate **`EnergyStreamData`** in the list and click on the report button.<br>
+![pbi datasets](../imgs/pbi_report_button.PNG)
 *  Click "Line Chart" icon<br>
 ![pbi linechart](../imgs/pbi_pick_linechart.PNG)
 *  Click **`EnergyStreamData`** in Fields panel.
@@ -39,39 +37,3 @@ Create the "Demand by Timestamp" tile:
   - others that you wish to try
   ...Then pin some or all to your dashboard
   
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-`outputpbi` -> `PBIoutput` like [this](/Code/ASA_query.sql) in https://manage.windowsazure.com ("classic" portal)

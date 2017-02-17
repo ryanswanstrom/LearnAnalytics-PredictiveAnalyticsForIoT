@@ -19,7 +19,7 @@ SELECT
     b.Longitude, 
     a.Load as Demand
 INTO 
-    PBIoutput 
+    outputPBI
 FROM (
     SELECT 
         System.Timestamp as T, 
