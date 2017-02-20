@@ -1,5 +1,5 @@
 1.  Open Azure ML Studio from https://studio.azureml.net
-2.  Sign-up if Sign-In does not work or you have never accessed this before – this is separate from Azure account, but is completely free and has many free benefits for ML on Azure.  **Note**: use the same email/ID that you have been using or is whitelisted (whitelisted only applies to instructor/in-person class format in October, 2016).
+2.  Sign-up if Sign-In does not work or you have never accessed this before – this is separate from Azure account, but is completely free and has many free benefits for ML on Azure.
 3.  In the AML Studio, make sure you are logged in as the correct user/email and are in the correct Subscription (all of these that are hooked up to what you were doing in class)
 4.  Navigate to the experiment `<name>mlwk`.
 4.  Explore distributions and inspect data in AML Studio and your experiment `<name>mlwk` with Visualize (right click on output node -> Visualize -> explore this mode)
